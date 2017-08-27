@@ -26,10 +26,10 @@ public class RestController {
 		a.setPicUrl("httpurl1");
 		
 		ResponseModel b = new ResponseModel();
-		b.setId(1);
-		b.setName("name1");
-		b.setDesc("desc1");
-		b.setPicUrl("httpurl1");
+		b.setId(3);
+		b.setName("name13);
+		b.setDesc("desc3");
+		b.setPicUrl("httpurl3");
 		
 		result.add(a);
 		result.add(b);
