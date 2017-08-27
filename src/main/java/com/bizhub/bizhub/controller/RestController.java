@@ -27,7 +27,7 @@ public class RestController {
 		
 		ResponseModel b = new ResponseModel();
 		b.setId(3);
-		b.setName("name13);
+		b.setName("name13");
 		b.setDesc("desc3");
 		b.setPicUrl("httpurl3");
 		
